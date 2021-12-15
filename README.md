@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hazel (HongEun) Lee 
 - 👀 I’m interested in Marketing analytics with R 
-- 🌱 I’m currently learning Data Analytic by Google, 
+- 🌱 I’m  currently working on Data Analytic with customer analytics, marketinng conversion rate.
 - 💞️ I’m looking to collaborate on Marketing and Sales team 
 This is Hazel's data analytic portfolio 
 <!---
